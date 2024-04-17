@@ -18,8 +18,8 @@ app.set('view engine', 'ejs');
 app.use(morgan('dev'));
 app.use(myConnection(mysql, {
   host: 'db5007094691.hosting-data.io',
-  user: 'dbu2427698',
-  password: 'iestdev0!',
+  user: 'ggs',
+  password: 'Delfin24',
   port: 3306,
   database: 'dbs5848722'
 }, 'single'));
